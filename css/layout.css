@@ -24,9 +24,11 @@
 
 /* Positioning Classes */
 
-.column {
-    float: left;
-    width: 33.33%;
+.column { 
+  width: 32%;
+  display: inline-block;
 }
+
+
 
 
